@@ -7,6 +7,8 @@ int main(void) {
 	c++;
 	b++;
 	printf("Hello world");
+	a++;
+	a--;
 	printf("Hello 世界!\n");
 	return 0;
 }
