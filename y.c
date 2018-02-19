@@ -6,6 +6,7 @@ int main(void) {
 	int c = 0;
 	c++;
 	b++;
+	printf("Hello world");
 	printf("Hello 世界!\n");
 	return 0;
 }
