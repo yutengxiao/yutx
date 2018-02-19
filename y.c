@@ -5,6 +5,7 @@ int main(void) {
 	int b = 0;
 	int c = 0;
 	c++;
+	b++;
 	printf("Hello 世界!\n");
 	return 0;
 }
